@@ -1,2 +1,5 @@
-# Curso-ProgramadorBR
-ProgramadorBR (Curso de Desenvolvimento Web): Frontend (HTML, CSS3, JavaScript, jQuery, Bootstrap, React/Redux), Backend (Firebase, Node.js, MongoDB), Negócios (Checklist, Marketing Digital, Personal Branding) e Bônus (Electron). Aprenda a criar sistemas web completos, impulsionar seus negócios e transformar projetos em aplicativos desktop.
+<h1>Curso | ProgramadorBR: Desenvolvimento Web</h1>
+  <p>O Curso-ProgramadorBR é um curso abrangente de Desenvolvimento Web que cobre várias áreas. Nele, você poderá se aprofundar em Frontend (HTML, CSS3, JavaScript, jQuery, Bootstrap, React/Redux), Backend (Firebase, Node.js, MongoDB), Negócios (Checklist, Marketing Digital, Personal Branding) e ainda terá um bônus de Electron.</p>
+  <p>Com o Curso-ProgramadorBR, você aprenderá a criar sistemas web completos, impulsionar seus negócios e até mesmo transformar projetos em aplicativos desktop. É uma oportunidade incrível para desenvolver suas habilidades e explorar diferentes aspectos do desenvolvimento web. O curso oferece um currículo abrangente que aborda tanto as tecnologias de frontend, como HTML, CSS3, JavaScript, jQuery, Bootstrap e React/Redux, quanto as tecnologias de backend, como Firebase, Node.js e MongoDB. Além disso, você terá acesso a conteúdos relacionados a negócios, como checklist, marketing digital e personal branding.
+
+[![Visite o site](https://img.shields.io/badge/Site-Online-blue)](https://mr-programador.github.io/Curso-ProgramadorBR/)
